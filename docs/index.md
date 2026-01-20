@@ -22,6 +22,7 @@ docs/
 ├── index.md           # [YOU ARE HERE] Documentation navigation hub
 ├── architecture/      # System design & technical architecture
 ├── guides/            # Step-by-step how-to guides
+├── planning/          # Feature planning & product specs
 ├── api/               # API reference & specifications
 └── examples/          # Usage examples & tutorials
 ```
@@ -61,6 +62,20 @@ docs/
 | [guides/getting-started.md](./guides/getting-started.md) | First-time setup | 초기 설정 및 시작 가이드 |
 | [guides/configuration.md](./guides/configuration.md) | Configuration options | 설정 옵션 및 환경 구성 |
 | [guides/troubleshooting.md](./guides/troubleshooting.md) | Common issues & solutions | 일반적인 문제 및 해결 방법 |
+
+### Planning | 기획
+
+**What to document here | 여기에 작성할 내용:**
+- Feature planning documents and product specs
+- Problem statements, goals, scope, and acceptance criteria
+- AI-authored drafts based on user commands
+
+**기능 기획서, 요구사항, 스펙 문서를 작성하세요.**
+
+| Document | Description | 설명 |
+|----------|-------------|------|
+| [planning/index.md](./planning/index.md) | Planning docs hub | 기획 문서 허브 |
+| [planning/feature-plan-template.md](./planning/feature-plan-template.md) | Feature planning template | 기능 기획 템플릿 |
 
 ### API Reference | API 레퍼런스
 
